@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>dokidodo</title>
+    <link href="http://www.dokidodo.com/feed.xml" rel="self" />
+    <link href="http://www.dokidodo.com" />
+    <updated>2022-05-16T22:58:16-05:00</updated>
+    <author>
+        <name>dokidodo</name>
+    </author>
+    <id>http://www.dokidodo.com</id>
+
+    <entry>
+        <title>一つ</title>
+        <author>
+            <name>dokidodo</name>
+        </author>
+        <link href="http://www.dokidodo.com/first-post.html"/>
+        <id>http://www.dokidodo.com/first-post.html</id>
+
+        <updated>2022-05-16T22:58:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I'm bad at first posts. Is there such a thing as a good "first post" to anything? Anyway... I'm using this site to track my progress while I learn Japanese. It is unlikely that many other people will read it. But, my thought is that&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I'm bad at first posts. Is there such a thing as a good "first post" to anything? Anyway...</p>
+<p> </p>
+<p>I'm using this site to track my progress while I learn Japanese. It is unlikely that many other people will read it. But, my thought is that things will stick in my head more firmly if I write about them. So, here we are.</p>
+<p>So far, I've learned:</p>
+<ul>
+<li>Kana (hiragana and katakana).
+<ul>
+<li>I used a combination of an app on my phone and a game called "You Can Kana" for PC (highly recommended for complete beginners).</li>
+</ul>
+</li>
+<li>~65 kanji.
+<ul>
+<li>Mostly using WaniKani.</li>
+</ul>
+</li>
+<li>~125 vocabulary words.
+<ul>
+<li>Also mostly with WaniKani.</li>
+</ul>
+</li>
+<li>Grammar basics (just started) using:
+<ul>
+<li>Tae Kim's Grammar Guide</li>
+<li>Genki I</li>
+<li>Bunpro</li>
+</ul>
+</li>
+</ul>
+<p>I've also tried out a (zero) graded reader and, while having only 125 words/65 kanji under my belt means I still need to look up most of the words, I think it has been a useful exercise.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

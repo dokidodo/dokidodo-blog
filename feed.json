@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dokidodo",
+    "description": "",
+    "home_page_url": "http://www.dokidodo.com",
+    "feed_url": "http://www.dokidodo.com/feed.json",
+    "user_comment": "",
+    "icon": "http://www.dokidodo.com/media/website/dokidodo.png",
+    "author": {
+        "name": "dokidodo"
+    },
+    "items": [
+        {
+            "id": "http://www.dokidodo.com/first-post.html",
+            "url": "http://www.dokidodo.com/first-post.html",
+            "title": "一つ",
+            "summary": "I'm bad at first posts. Is there such a thing as a good \"first post\" to anything? Anyway... I'm using this site to track my progress while I learn Japanese. It is unlikely that many other people will read it. But, my thought is that&hellip;",
+            "content_html": "<p>I'm bad at first posts. Is there such a thing as a good \"first post\" to anything? Anyway...</p>\n<p> </p>\n<p>I'm using this site to track my progress while I learn Japanese. It is unlikely that many other people will read it. But, my thought is that things will stick in my head more firmly if I write about them. So, here we are.</p>\n<p>So far, I've learned:</p>\n<ul>\n<li>Kana (hiragana and katakana).\n<ul>\n<li>I used a combination of an app on my phone and a game called \"You Can Kana\" for PC (highly recommended for complete beginners).</li>\n</ul>\n</li>\n<li>~65 kanji.\n<ul>\n<li>Mostly using WaniKani.</li>\n</ul>\n</li>\n<li>~125 vocabulary words.\n<ul>\n<li>Also mostly with WaniKani.</li>\n</ul>\n</li>\n<li>Grammar basics (just started) using:\n<ul>\n<li>Tae Kim's Grammar Guide</li>\n<li>Genki I</li>\n<li>Bunpro</li>\n</ul>\n</li>\n</ul>\n<p>I've also tried out a (zero) graded reader and, while having only 125 words/65 kanji under my belt means I still need to look up most of the words, I think it has been a useful exercise.</p>",
+            "author": {
+                "name": "dokidodo"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-16T21:25:50-05:00",
+            "date_modified": "2022-05-16T22:58:16-05:00"
+        }
+    ]
+}
