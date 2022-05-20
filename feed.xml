@@ -3,12 +3,37 @@
     <title>dokidodo</title>
     <link href="http://www.dokidodo.com/feed.xml" rel="self" />
     <link href="http://www.dokidodo.com" />
-    <updated>2022-05-16T22:58:16-05:00</updated>
+    <updated>2022-05-19T21:41:38-05:00</updated>
     <author>
         <name>dokidodo</name>
     </author>
     <id>http://www.dokidodo.com</id>
 
+    <entry>
+        <title>WaniKani Level 4</title>
+        <author>
+            <name>dokidodo</name>
+        </author>
+        <link href="http://www.dokidodo.com/wanikani-level-4.html"/>
+        <id>http://www.dokidodo.com/wanikani-level-4.html</id>
+
+        <updated>2022-05-19T21:41:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I crossed into level four on WaniKani today. According to my stats, I've learned 80 radicals, 80 kanji, and 124 vocabulary words. I started with WaniKani 32 days ago. It's certainly not the fastest progression I've seen, but I'm very happy with where I'm at.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I crossed into level four on WaniKani today. According to my stats, I've learned 80 radicals, 80 kanji, and 124 vocabulary words. I started with WaniKani 32 days ago. It's certainly not the fastest progression I've seen, but I'm very happy with where I'm at. Full stats:</p>
+<figure class="post__image" ><img loading="lazy" src="http://www.dokidodo.com/media/posts/3/wkstats_20220519.png" sizes="100vw" srcset="http://www.dokidodo.com/media/posts/3/responsive/wkstats_20220519-xs.png 300w ,http://www.dokidodo.com/media/posts/3/responsive/wkstats_20220519-sm.png 480w ,http://www.dokidodo.com/media/posts/3/responsive/wkstats_20220519-md.png 768w ,http://www.dokidodo.com/media/posts/3/responsive/wkstats_20220519-lg.png 1024w ,http://www.dokidodo.com/media/posts/3/responsive/wkstats_20220519-xl.png 1360w ,http://www.dokidodo.com/media/posts/3/responsive/wkstats_20220519-2xl.png 1600w"  alt="wkstats-20220519" width="716" height="497">
+<figcaption >Generated using: https://www.wkstats.com</figcaption>
+</figure>
+<p>I'm also pretty satisfied with my accuracy. Remembering the meaning of the radicals/kanji/vocab has (so far) been fairly easy. I've had to focus much harder on the readings. Counting things/people/days/months/etc. tripped me up quite a bit. Knowing when to use which reading of a number has been a bit of a struggle, but I finally feel like I'm getting it right almost every time.</p>
+<p>There is a local chapter of the National Association fo Japan-America Societies in my city that offers Japanese language classes. They are (understandably) not inexpensive, but I may consider trying one at some point, if only for the conversation and listening practice I would gain.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>一つ</title>
         <author>
