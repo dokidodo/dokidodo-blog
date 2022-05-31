@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "http://www.dokidodo.com/today-and-this-month.html",
+            "url": "http://www.dokidodo.com/today-and-this-month.html",
+            "title": "Today and This Month",
+            "summary": "I'm having a lot of trouble remembering the readings for \"today\" (今日) and \"this month\" (今月). For 今日, the reading is きょう (kyou) and is a complete exception. There is nothing to do but memorize it. In the case of 今月, the reading is こんげつ&hellip;",
+            "content_html": "<p>I'm having a lot of trouble remembering the readings for \"today\" (今日) and \"this month\" (今月). For 今日, the reading is きょう (kyou) and is a complete exception. There is nothing to do but memorize it. In the case of 今月, the reading is こんげつ (kongetsu), which is at least a standard on'yomi reading for both kanji. You'd think that would make 今月 easier to remember. However, I think the visual similarity it shares with 今日 is causing me to trip over it as if 今月 <em>also</em> had an exceptional reading.</p>\n<p>In other news, I've joined tokiniandy.com to assist with studying the Genki textbooks. It seems useful so far, but I haven't gone through too many of the lessons yet. We'll see how it goes.</p>\n<p>If nothing else, I appreciate that both WaniKani and ToKini Andy seem to have very active and helpful communities.</p>",
+            "author": {
+                "name": "dokidodo"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-30T22:19:34-05:00",
+            "date_modified": "2022-05-30T22:19:34-05:00"
+        },
+        {
             "id": "http://www.dokidodo.com/wanikani-level-4.html",
             "url": "http://www.dokidodo.com/wanikani-level-4.html",
             "title": "WaniKani Level 4",
