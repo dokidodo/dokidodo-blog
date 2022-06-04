@@ -3,7 +3,7 @@
     <title>dokidodo</title>
     <link href="http://www.dokidodo.com/feed.xml" rel="self" />
     <link href="http://www.dokidodo.com" />
-    <updated>2022-06-03T20:47:02-05:00</updated>
+    <updated>2022-06-03T20:55:40-05:00</updated>
     <author>
         <name>dokidodo</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="http://www.dokidodo.com/today-i-learned-1.html"/>
         <id>http://www.dokidodo.com/today-i-learned-1.html</id>
+            <category term="wanikani"/>
+            <category term="TIL"/>
 
-        <updated>2022-06-03T20:47:02-05:00</updated>
+        <updated>2022-06-03T20:54:57-05:00</updated>
             <summary>
                 <![CDATA[
                     I doubt I'll do this with everything, but I'd like to start recording some of the Japanese I learn, as I learn it. For today, that means kanji. I'm hoping to speed up my progress in WaniKani. Learning a language isn't a race, but I've&hellip;
@@ -54,8 +56,9 @@
         </author>
         <link href="http://www.dokidodo.com/today-and-this-month.html"/>
         <id>http://www.dokidodo.com/today-and-this-month.html</id>
+            <category term="quick note"/>
 
-        <updated>2022-05-30T22:19:34-05:00</updated>
+        <updated>2022-06-03T20:53:38-05:00</updated>
             <summary>
                 <![CDATA[
                     I'm having a lot of trouble remembering the readings for "today" (今日) and "this month" (今月). For 今日, the reading is きょう (kyou) and is a complete exception. There is nothing to do but memorize it. In the case of 今月, the reading is こんげつ&hellip;
@@ -76,8 +79,10 @@
         </author>
         <link href="http://www.dokidodo.com/wanikani-level-4.html"/>
         <id>http://www.dokidodo.com/wanikani-level-4.html</id>
+            <category term="wanikani"/>
+            <category term="stats"/>
 
-        <updated>2022-05-19T21:41:38-05:00</updated>
+        <updated>2022-06-03T20:55:17-05:00</updated>
             <summary>
                 <![CDATA[
                     I crossed into level four on WaniKani today. According to my stats, I've learned 80 radicals, 80 kanji, and 124 vocabulary words. I started with WaniKani 32 days ago. It's certainly not the fastest progression I've seen, but I'm very happy with where I'm at.
@@ -101,8 +106,10 @@
         </author>
         <link href="http://www.dokidodo.com/first-post.html"/>
         <id>http://www.dokidodo.com/first-post.html</id>
+            <category term="stats"/>
+            <category term="general"/>
 
-        <updated>2022-05-16T22:58:16-05:00</updated>
+        <updated>2022-06-03T20:55:40-05:00</updated>
             <summary>
                 <![CDATA[
                     I'm bad at first posts. Is there such a thing as a good "first post" to anything? Anyway... I'm using this site to track my progress while I learn Japanese. It is unlikely that many other people will read it. But, my thought is that&hellip;
