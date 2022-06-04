@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "http://www.dokidodo.com/today-i-learned-1.html",
+            "url": "http://www.dokidodo.com/today-i-learned-1.html",
+            "title": "Today I Learned - 1",
+            "summary": "I doubt I'll do this with everything, but I'd like to start recording some of the Japanese I learn, as I learn it. For today, that means kanji. I'm hoping to speed up my progress in WaniKani. Learning a language isn't a race, but I've&hellip;",
+            "content_html": "<p>I doubt I'll do this with everything, but I'd like to start recording some of the Japanese I learn, as I learn it. For today, that means kanji.</p>\n<ul>\n<li>氷 - ice, こおり (kun'yomi)</li>\n<li>他 - other, た (on'yomi)</li>\n<li>休 - rest, きゅう (on'yomi)</li>\n<li>先 - previous, せん (on'yomi)</li>\n<li>世 - world, せい (on'yomi)</li>\n<li>字 - letter, じ (on'yomi)</li>\n<li>主 - master, しゅ (on'yomi)</li>\n<li>年 - year, ねん (on'yomi)</li>\n<li>名 - name, めい (on'yomi)</li>\n<li>皿 - plate, さら (kun'yomi)</li>\n<li>写 - copy, しゃ (on'yomi)</li>\n<li>申 - say humbly, もう (kun'yomi)</li>\n<li>平 - flat, peace, へい (on'yomi)</li>\n<li>礼 - thanks, れい (on'yomi)</li>\n<li>代 - substitue, replace, period, age, だい (on'yomi)</li>\n</ul>\n<p>I'm hoping to speed up my progress in WaniKani. Learning a language isn't a race, but I've slowed down quite a bit on level four. </p>",
+            "author": {
+                "name": "dokidodo"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-03T20:47:02-05:00",
+            "date_modified": "2022-06-03T20:47:02-05:00"
+        },
+        {
             "id": "http://www.dokidodo.com/today-and-this-month.html",
             "url": "http://www.dokidodo.com/today-and-this-month.html",
             "title": "Today and This Month",

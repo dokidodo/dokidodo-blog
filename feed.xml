@@ -3,12 +3,50 @@
     <title>dokidodo</title>
     <link href="http://www.dokidodo.com/feed.xml" rel="self" />
     <link href="http://www.dokidodo.com" />
-    <updated>2022-05-30T22:19:34-05:00</updated>
+    <updated>2022-06-03T20:47:02-05:00</updated>
     <author>
         <name>dokidodo</name>
     </author>
     <id>http://www.dokidodo.com</id>
 
+    <entry>
+        <title>Today I Learned - 1</title>
+        <author>
+            <name>dokidodo</name>
+        </author>
+        <link href="http://www.dokidodo.com/today-i-learned-1.html"/>
+        <id>http://www.dokidodo.com/today-i-learned-1.html</id>
+
+        <updated>2022-06-03T20:47:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I doubt I'll do this with everything, but I'd like to start recording some of the Japanese I learn, as I learn it. For today, that means kanji. I'm hoping to speed up my progress in WaniKani. Learning a language isn't a race, but I've&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I doubt I'll do this with everything, but I'd like to start recording some of the Japanese I learn, as I learn it. For today, that means kanji.</p>
+<ul>
+<li>氷 - ice, こおり (kun'yomi)</li>
+<li>他 - other, た (on'yomi)</li>
+<li>休 - rest, きゅう (on'yomi)</li>
+<li>先 - previous, せん (on'yomi)</li>
+<li>世 - world, せい (on'yomi)</li>
+<li>字 - letter, じ (on'yomi)</li>
+<li>主 - master, しゅ (on'yomi)</li>
+<li>年 - year, ねん (on'yomi)</li>
+<li>名 - name, めい (on'yomi)</li>
+<li>皿 - plate, さら (kun'yomi)</li>
+<li>写 - copy, しゃ (on'yomi)</li>
+<li>申 - say humbly, もう (kun'yomi)</li>
+<li>平 - flat, peace, へい (on'yomi)</li>
+<li>礼 - thanks, れい (on'yomi)</li>
+<li>代 - substitue, replace, period, age, だい (on'yomi)</li>
+</ul>
+<p>I'm hoping to speed up my progress in WaniKani. Learning a language isn't a race, but I've slowed down quite a bit on level four. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Today and This Month</title>
         <author>
