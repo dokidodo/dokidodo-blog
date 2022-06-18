@@ -3,12 +3,35 @@
     <title>dokidodo</title>
     <link href="http://www.dokidodo.com/feed.xml" rel="self" />
     <link href="http://www.dokidodo.com" />
-    <updated>2022-06-04T18:12:59-05:00</updated>
+    <updated>2022-06-18T10:53:47-05:00</updated>
     <author>
         <name>dokidodo</name>
     </author>
     <id>http://www.dokidodo.com</id>
 
+    <entry>
+        <title>WaniKani Level 5</title>
+        <author>
+            <name>dokidodo</name>
+        </author>
+        <link href="http://www.dokidodo.com/wanikani-level-5.html"/>
+        <id>http://www.dokidodo.com/wanikani-level-5.html</id>
+
+        <updated>2022-06-18T10:53:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This post is a little late since I've been on Level 5 for several days now, but that's how it goes. It took me quite a long time to get through Level 4. I don't think the reason for that is low accuracy. I don't&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This post is a little late since I've been on Level 5 for several days now, but that's how it goes. It took me quite a long time to get through Level 4. I don't think the reason for that is low accuracy. I don't feel like I was making more mistakes than usual and the stats don't seem to indicate that. Speaking of stats:</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="http://www.dokidodo.com/media/posts/7/wanikani-level-5.png" sizes="100vw" srcset="http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-xs.png 300w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-sm.png 480w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-md.png 768w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-lg.png 1024w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-xl.png 1360w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-2xl.png 1600w"  alt="WaniKani Level 5" width="1484" height="1026"></figure>
+<p>You can see how much longer Level 4 took me than previous levels:</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="http://www.dokidodo.com/media/posts/7/wanikani-level-5-comp.png" sizes="100vw" srcset="http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-comp-xs.png 300w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-comp-sm.png 480w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-comp-md.png 768w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-comp-lg.png 1024w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-comp-xl.png 1360w ,http://www.dokidodo.com/media/posts/7/responsive/wanikani-level-5-comp-2xl.png 1600w"  alt="WaniKani Level 5 Comparison" width="1526" height="970"></figure>I'm hoping to speed things up for Level 5 and beyond, but we'll see what happens. So far there isn't anything at this level that's giving me a lot of trouble. I'm mostly hesitant to do too many lessons at once so I don't end up with hundreds of reviews all landing at the same time in the future.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Today I Learned - 1</title>
         <author>
