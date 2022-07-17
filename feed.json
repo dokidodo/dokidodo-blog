@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "http://www.dokidodo.com/wanikani-level-6.html",
+            "url": "http://www.dokidodo.com/wanikani-level-6.html",
+            "title": "WaniKani Level 6",
+            "summary": "I've finally made it to WaniKani level 6. It took over a month. Two things happened to slow my progression down: That said, I've decided to not pay much (or any) attention to how long each level takes me. While I enjoy seeing those stats,&hellip;",
+            "content_html": "<p>I've finally made it to WaniKani level 6. It took over a month. Two things happened to slow my progression down:</p>\n<ul>\n<li>Work obligations and stress.</li>\n<li>Getting hit with a ton of WaniKani reviews at once because I didn't make an effort to space them out.</li>\n</ul>\n<p>That said, I've decided to not pay much (or any) attention to how long each level takes me. While I enjoy seeing those stats, being hard on myself because I'm not moving through the levels as quickly as I'd like to (or as quickly as others in the WaniKani community seem to) isn't useful.</p>\n<p>As long as I continue to learn and make progress, I think that's enough for me.</p>",
+            "author": {
+                "name": "dokidodo"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-17T11:18:44-05:00",
+            "date_modified": "2022-07-17T11:18:44-05:00"
+        },
+        {
             "id": "http://www.dokidodo.com/wanikani-level-5.html",
             "url": "http://www.dokidodo.com/wanikani-level-5.html",
             "title": "WaniKani Level 5",

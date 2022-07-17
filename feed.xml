@@ -3,12 +3,38 @@
     <title>dokidodo</title>
     <link href="http://www.dokidodo.com/feed.xml" rel="self" />
     <link href="http://www.dokidodo.com" />
-    <updated>2022-06-18T10:53:47-05:00</updated>
+    <updated>2022-07-17T11:18:44-05:00</updated>
     <author>
         <name>dokidodo</name>
     </author>
     <id>http://www.dokidodo.com</id>
 
+    <entry>
+        <title>WaniKani Level 6</title>
+        <author>
+            <name>dokidodo</name>
+        </author>
+        <link href="http://www.dokidodo.com/wanikani-level-6.html"/>
+        <id>http://www.dokidodo.com/wanikani-level-6.html</id>
+
+        <updated>2022-07-17T11:18:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I've finally made it to WaniKani level 6. It took over a month. Two things happened to slow my progression down: That said, I've decided to not pay much (or any) attention to how long each level takes me. While I enjoy seeing those stats,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've finally made it to WaniKani level 6. It took over a month. Two things happened to slow my progression down:</p>
+<ul>
+<li>Work obligations and stress.</li>
+<li>Getting hit with a ton of WaniKani reviews at once because I didn't make an effort to space them out.</li>
+</ul>
+<p>That said, I've decided to not pay much (or any) attention to how long each level takes me. While I enjoy seeing those stats, being hard on myself because I'm not moving through the levels as quickly as I'd like to (or as quickly as others in the WaniKani community seem to) isn't useful.</p>
+<p>As long as I continue to learn and make progress, I think that's enough for me.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WaniKani Level 5</title>
         <author>
